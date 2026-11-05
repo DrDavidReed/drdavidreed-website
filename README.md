@@ -4,7 +4,7 @@ A personal website inspired by the Linux terminal, built with HTML, CSS and Java
 
 Rather than a traditional homepage, I wanted to create something interactive that reflects my interests in Linux, self-hosting, gaming, technology and movies.
 
-**🌐 [Visit the live website](https://drdavidreed.github.io/home/)**
+**🌐 [Visit the live website]([https://drdavidreed.github.io/drdavidreed-website/))**
 
 ## Preview
 
